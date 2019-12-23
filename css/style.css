@@ -359,6 +359,7 @@ section .container {
   justify-content: space-evenly;
   flex: 1;
   max-width: 640px;
+  padding: 0 2%;
 }
 
 .question-card {
